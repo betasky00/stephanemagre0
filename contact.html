@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact — Stéphane Magre</title>
+  <meta name="description" content="Pour des commandes privées et collaborations. Stéphane Magre, paysagiste DPLG, Paris." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>◦</text></svg>" />
+  <script src="js/i18n.js"></script>
+</head>
+<body>
+  <header class="header scrolled" id="header">
+    <a href="index.html" class="header__logo">Stéphane Magre<span data-i18n="footer.sub">Design paysager · Paris</span></a>
+    <nav class="header__nav">
+      <a href="index.html" data-i18n="nav.home">Accueil</a>
+      <a href="projects.html" data-i18n="nav.projects">Projets</a>
+      <a href="about.html" data-i18n="nav.about">À propos</a>
+      <a href="contact.html" data-i18n="nav.contact">Contact</a>
+      <div class="lang-toggle">
+        <button class="lang-btn lang-btn--active" data-lang="fr">FR</button>
+        <span class="lang-sep">|</span>
+        <button class="lang-btn" data-lang="en">EN</button>
+      </div>
+    </nav>
+    <button class="header__burger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </header>
+  <nav class="mobile-nav">
+    <button class="mobile-nav__close">Fermer</button>
+    <a href="index.html" data-i18n="nav.home">Accueil</a>
+    <a href="projects.html" data-i18n="nav.projects">Projets</a>
+    <a href="about.html" data-i18n="nav.about">À propos</a>
+    <a href="contact.html" data-i18n="nav.contact">Contact</a>
+    <div class="lang-toggle"><button class="lang-btn lang-btn--active" data-lang="fr">FR</button><span class="lang-sep">|</span><button class="lang-btn" data-lang="en">EN</button></div>
+  </nav>
+
+  <section class="page-hero">
+    <div class="container">
+      <span class="label fade-in" data-i18n="contact.hero.label">Prendre contact</span>
+      <h1 class="fade-in fade-in--delay-1" data-i18n="contact.hero.h1">Contact</h1>
+      <p class="fade-in fade-in--delay-2" data-i18n="contact.hero.p">Pour des commandes privées, des collaborations et des demandes de projet.</p>
+    </div>
+  </section>
+
+  <section class="contact-main">
+    <div class="container">
+      <div class="contact-main__inner">
+        <div class="contact-info fade-in">
+          <span class="label" data-i18n="contact.info.label">Contact direct</span>
+          <h2 data-i18n-html="contact.info.h2">Un bureau privé,<br>pas un standard.</h2>
+          <div class="divider"></div>
+          <p data-i18n="contact.info.p1">La façon la plus directe de me joindre est par e-mail. Je réponds personnellement à chaque demande et répondrai dans les deux jours ouvrés.</p>
+          <p data-i18n="contact.info.p2">Si vous préférez parler d'abord, envoyez-moi un court message par e-mail et je proposerai un appel à un moment qui vous convient.</p>
+
+          <div class="contact-links">
+            <div>
+              <span class="contact-link__label" data-i18n="contact.link.email.label">E-mail</span>
+              <a href="mailto:magrepaisaje@gmail.com" class="contact-link__value">magrepaisaje@gmail.com</a>
+            </div>
+            <div>
+              <span class="contact-link__label" data-i18n="contact.link.phone.label">Téléphone</span>
+              <a href="tel:+33749771720" class="contact-link__value">+33 7 49 77 17 20</a>
+            </div>
+            <div>
+              <span class="contact-link__label" data-i18n="contact.link.linkedin.label">LinkedIn</span>
+              <a href="https://www.linkedin.com/in/stephane-magre-21913b191/" target="_blank" rel="noopener noreferrer" class="contact-link__value">Stéphane Magre</a>
+            </div>
+            <div>
+              <span class="contact-link__label" data-i18n="contact.link.location.label">Localisation</span>
+              <span class="contact-link__value" style="cursor:default" data-i18n="contact.link.location.value">Paris, France</span>
+            </div>
+          </div>
+
+          <div class="contact-note">
+            <p data-i18n="contact.note.p">Les projets sont acceptés de façon sélective. J'interviens sur un nombre limité de commandes à la fois, et consacre à chacune toute mon attention.</p>
+          </div>
+        </div>
+
+        <div class="contact-image fade-in fade-in--delay-2">
+          <!-- REPLACE: contact-image.jpg — détail de jardin, orientation portrait -->
+          <img src="https://i0.wp.com/stephanemagrepaysagiste.fr/wp-content/uploads/2025/12/IMG_7247.jpg?auto=format&fit=crop&w=900&q=80"
+               alt="Jardin privé" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer"><div class="container"><div class="footer__inner">
+    <div class="footer__logo">Stéphane Magre<span data-i18n="footer.sub">Design paysager · Paris</span></div>
+    <nav class="footer__nav">
+      <a href="index.html" data-i18n="nav.home">Accueil</a>
+      <a href="projects.html" data-i18n="nav.projects">Projets</a>
+      <a href="about.html" data-i18n="nav.about">À propos</a>
+      <a href="contact.html" data-i18n="nav.contact">Contact</a>
+    </nav>
+    <div class="footer__copy" data-i18n="footer.copy">© 2025 Stéphane Magre</div>
+  </div></div></footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
