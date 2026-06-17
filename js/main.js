@@ -7,6 +7,12 @@ const header = document.querySelector('.header');
 
 function updateHeader() {
   if (!header) return;
+  /* Pages without a dark hero (projects, about, contact) keep a solid
+     dark-text header at all scroll positions so the nav stays readable. */
+  if (header.classList.contains('header--solid')) {
+    header.classList.add('scrolled');
+    return;
+  }
   header.classList.toggle('scrolled', window.scrollY > 60);
 }
 window.addEventListener('scroll', updateHeader, { passive: true });
