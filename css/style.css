@@ -1274,24 +1274,9 @@ p {
 
 .contact-link__value:hover { color: var(--accent); }
 
-/* Book a meeting (Cal.com) */
+/* Book a call (Cal.com) */
 .contact-book {
   margin-top: 2.5rem;
-  padding: 2rem;
-  border: 1px solid var(--border);
-  background: var(--white);
-}
-.contact-book .label {
-  display: block;
-  margin-bottom: 0.9rem;
-}
-.contact-book p {
-  font-family: var(--serif);
-  font-size: 1.15rem;
-  line-height: 1.5;
-  color: var(--text-muted);
-  margin-bottom: 1.6rem;
-  max-width: 42ch;
 }
 .contact-book__btn {
   cursor: pointer;

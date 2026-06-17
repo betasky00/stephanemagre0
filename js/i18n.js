@@ -10,7 +10,7 @@ const T = {
     'footer.sub':'Design paysager · Paris','footer.copy':'© 2025 Stéphane Magre',
     'btn.view-projects':'Voir les projets','btn.all-projects':'Tous les projets',
     'btn.contact':'Contact','btn.approach':'L\'approche','btn.in-touch':'Prendre contact',
-    'btn.book':'Prendre rendez-vous',
+    'btn.book':'Réserver un appel',
     'btn.back-projects':'Tous les projets','btn.next-project':'Projet suivant','btn.first-project':'Premier projet',
 
     /* Homepage */
@@ -87,7 +87,6 @@ const T = {
     'contact.info.label':'Contact direct','contact.info.h2':'Un bureau privé,<br>pas un standard.',
     'contact.info.p1':'La façon la plus directe de me joindre est par e-mail. Je réponds personnellement à chaque demande et répondrai dans les deux jours ouvrés.',
     'contact.info.p2':'Si vous préférez parler d\'abord, envoyez-moi un court message par e-mail et je proposerai un appel à un moment qui vous convient.',
-    'contact.book.label':'Rendez-vous','contact.book.p':'Vous pouvez aussi réserver directement un créneau d\'échange dans mon agenda. Vous recevrez une confirmation par e-mail.',
     'contact.link.email.label':'E-mail','contact.link.phone.label':'Téléphone',
     'contact.link.linkedin.label':'LinkedIn','contact.link.location.label':'Localisation',
     'contact.link.location.value':'Paris, France',
@@ -164,7 +163,7 @@ const T = {
     'footer.sub':'Landscape Design · Paris','footer.copy':'© 2025 Stéphane Magre',
     'btn.view-projects':'View projects','btn.all-projects':'All projects',
     'btn.contact':'Contact','btn.approach':'The approach','btn.in-touch':'Get in touch',
-    'btn.book':'Book a meeting',
+    'btn.book':'Book a call',
     'btn.back-projects':'All projects','btn.next-project':'Next project','btn.first-project':'Back to first project',
 
     /* Homepage */
@@ -241,7 +240,6 @@ const T = {
     'contact.info.label':'Direct contact','contact.info.h2':'A private office,<br>not a call centre.',
     'contact.info.p1':'The most direct way to reach me is by email. I respond personally to every enquiry and will reply within two working days.',
     'contact.info.p2':'If you prefer to speak first, please send a short message by email and I will arrange a call at a convenient time.',
-    'contact.book.label':'Appointments','contact.book.p':'You can also book a time to talk directly in my calendar. You will receive a confirmation by email.',
     'contact.link.email.label':'Email','contact.link.phone.label':'Phone',
     'contact.link.linkedin.label':'LinkedIn','contact.link.location.label':'Location',
     'contact.link.location.value':'Paris, France',
