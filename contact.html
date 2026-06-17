@@ -52,6 +52,18 @@
           <p data-i18n="contact.info.p1">La façon la plus directe de me joindre est par e-mail. Je réponds personnellement à chaque demande et répondrai dans les deux jours ouvrés.</p>
           <p data-i18n="contact.info.p2">Si vous préférez parler d'abord, envoyez-moi un court message par e-mail et je proposerai un appel à un moment qui vous convient.</p>
 
+          <div class="contact-book">
+            <span class="label" data-i18n="contact.book.label">Rendez-vous</span>
+            <p data-i18n="contact.book.p">Vous pouvez aussi réserver directement un créneau d'échange dans mon agenda. Vous recevrez une confirmation par e-mail.</p>
+            <!-- Cal.com: replace data-cal-link with the real "username/event" once the account is set up -->
+            <a href="#"
+               class="btn btn--outline contact-book__btn"
+               data-cal-namespace="rdv"
+               data-cal-link="stephane-magre/30min"
+               data-cal-config='{"layout":"month_view"}'
+               data-i18n="btn.book">Prendre rendez-vous</a>
+          </div>
+
           <div class="contact-links">
             <div>
               <span class="contact-link__label" data-i18n="contact.link.email.label">E-mail</span>
@@ -96,5 +108,18 @@
     <div class="footer__copy" data-i18n="footer.copy">© 2025 Stéphane Magre</div>
   </div></div></footer>
   <script src="js/main.js"></script>
+
+  <!-- Cal.com embed — opens the scheduler in a popup when the booking button is clicked.
+       After creating the Cal.com account, set the real link in two places:
+       (1) the button's data-cal-link in <body>, (2) nothing else needed here. -->
+  <script type="text/javascript">
+    (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if (typeof namespace === "string") { cal.ns[namespace] = cal.ns[namespace] || api; p(cal.ns[namespace], ar); p(cal, ["initNamespace", namespace]); } else p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "Cal");
+    Cal("init", "rdv", { origin: "https://cal.com" });
+    Cal.ns.rdv("ui", {
+      "cssVarsPerTheme": { "light": { "cal-brand": "#8C7B6A" } },
+      "hideEventTypeDetails": false,
+      "layout": "month_view"
+    });
+  </script>
 </body>
 </html>

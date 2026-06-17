@@ -47,7 +47,7 @@
   <section class="hero">
     <div class="hero__image">
       <!-- REPLACE: hero-main.jpg — wide cinematic garden shot, landscape orientation -->
-      <img src="images/hero-main.jpeg" alt="
+      <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=2400&q=80"
            alt="Jardin privé — composition formelle" fetchpriority="high" />
     </div>
     <div class="hero__overlay"></div>
@@ -227,7 +227,16 @@
       <span class="label fade-in" style="text-align:center;display:block" data-i18n="home.cta.label">Commandes</span>
       <h2 class="fade-in fade-in--delay-1" data-i18n-html="home.cta.h2">Pour des commandes<br>et collaborations privées.</h2>
       <p class="fade-in fade-in--delay-2" data-i18n="home.cta.p">Les projets sont acceptés de façon sélective.</p>
-      <a href="contact.html" class="btn btn--outline fade-in fade-in--delay-3" data-i18n="btn.in-touch">Prendre contact</a>
+      <div class="cta__actions fade-in fade-in--delay-3">
+        <a href="contact.html" class="btn btn--outline" data-i18n="btn.in-touch">Prendre contact</a>
+        <!-- Cal.com: opens the scheduler popup -->
+        <a href="#"
+           class="btn btn--outline"
+           data-cal-namespace="rdv"
+           data-cal-link="stephane-magre/30min"
+           data-cal-config='{"layout":"month_view"}'
+           data-i18n="btn.book">Prendre rendez-vous</a>
+      </div>
     </div>
   </section>
 
@@ -247,5 +256,16 @@
   </footer>
 
   <script src="js/main.js"></script>
+
+  <!-- Cal.com embed — opens the scheduler in a popup when a booking button is clicked. -->
+  <script type="text/javascript">
+    (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if (typeof namespace === "string") { cal.ns[namespace] = cal.ns[namespace] || api; p(cal.ns[namespace], ar); p(cal, ["initNamespace", namespace]); } else p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "Cal");
+    Cal("init", "rdv", { origin: "https://cal.com" });
+    Cal.ns.rdv("ui", {
+      "cssVarsPerTheme": { "light": { "cal-brand": "#8C7B6A" } },
+      "hideEventTypeDetails": false,
+      "layout": "month_view"
+    });
+  </script>
 </body>
 </html>
