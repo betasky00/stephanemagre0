@@ -1,6 +1,40 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    { "source": "/villa", "destination": "/project-villa-privee", "permanent": true },
+    { "source": "/ambassade-de-france", "destination": "/project-ambassade", "permanent": true },
+    { "source": "/jardin-privee", "destination": "/project-jardin-prive", "permanent": true },
+    { "source": "/hotel", "destination": "/project-iberostar", "permanent": true },
+    { "source": "/hotel-international", "destination": "/project-melina", "permanent": true },
+    { "source": "/hotel-prado", "destination": "/project-prado", "permanent": true },
+    { "source": "/bio", "destination": "/about", "permanent": true },
+    { "source": "/portfolio", "destination": "/projects", "permanent": true },
+    {
+      "source": "/",
+      "has": [{ "type": "query", "key": "page_id", "value": "514" }],
+      "destination": "/project-cayo-cruz",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "query", "key": "page_id", "value": "521" }],
+      "destination": "/project-corona",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "query", "key": "page_id", "value": "525" }],
+      "destination": "/project-normaliennes",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "query", "key": "page_id", "value": "563" }],
+      "destination": "/project-la-traversee",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
