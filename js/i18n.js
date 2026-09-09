@@ -137,9 +137,9 @@ const T = {
     'villa.meta.scope':'ESQ, PRO, DCE, EXE','villa.meta.type':'Résidence privée, 8 000 m²',
     'villa.meta.status':'Réalisé',
     'villa.desc.h3':'Le jardin comme continuité<br>du paysage lui-même.',
-    'villa.desc.p1':'Cette villa privée à l\'architecture contemporaine, définie par des lignes épurées et un portico en porte-à-faux, posait une question fondamentale : comment concevoir un jardin pour une maison au bord de la mer qui soit à la hauteur de l\'architecture elle-même ?',
-    'villa.desc.p2':'Le jardin ne décore pas l\'édifice — il en est la continuité directe dans le paysage. La végétation indigène et endémique, présente sur le site, a été collectée, multipliée en pépinière et soigneusement réintroduite pour reconstituer un écosystème vivant et cohérent.',
-    'villa.desc.p3':'Les terrasses s\'intègrent discrètement dans la topographie naturelle, cadrant les vues vers l\'horizon. Plutôt qu\'une décoration, le jardin est la continuité même du paysage — habité et précisément composé.',
+    'villa.desc.p1':'Dès l\'entrée, la villa s\'affirme par une architecture contemporaine, définie par des lignes épurées et un porche en porte-à-faux qui crée une sensation à la fois surprenante et aérienne. Le jardin d\'accueil prolonge ce geste architectural grâce à une composition ornementale où les essences sont choisies pour leur valeur décorative, soulignant ainsi le caractère affirmé du lieu.',
+    'villa.desc.p2':'En parcourant les espaces intérieurs, la perception s\'inverse. Côté mer, la villa s\'efface pour laisser toute la place au site. Les volumes se fondent dans la topographie et s\'ancrent dans le paysage. Des terrasses discrètes s\'insèrent dans le terrain naturel, ouvrant des vues cadrées vers l\'horizon et les éléments.',
+    'villa.desc.p3':'Ici, le jardin n\'est plus un décor ajouté, mais la continuité même du paysage. Il est imaginé à partir de végétaux autochtones et endémiques, déjà présents sur le site : collectés avec soin, multipliés en pépinière, puis réintroduits pour recréer un écosystème vivant et cohérent.',
     'villa.nav.prev':'Tous les projets','villa.nav.next.title':'Ambassade de France à Cuba',
 
     /* Ambassade */
@@ -147,9 +147,9 @@ const T = {
     'ambassade.meta.scope':'Jardins, espace culturel','ambassade.meta.type':'Résidence diplomatique, 8 000 m²',
     'ambassade.meta.status':'Réalisé',
     'ambassade.desc.h3':'Un jardin de mémoire<br>et de rassemblement.',
-    'ambassade.desc.p1':'Le jardin de la résidence de l\'Ambassadeur de France à La Havane a été conçu comme un lieu de partage et de mémoire — un espace qui raconte l\'histoire du site tout en l\'ancrant dans le présent.',
-    'ambassade.desc.p2':'Les matériaux existants, les bassins oubliés, la végétation patrimoniale — grands figuiers, palmiers royaux, plantations exotiques denses — ont été préservés et ouverts à la lumière. Une pelouse centrale crée une perspective vers une statue, reliant la villa au paysage.',
-    'ambassade.desc.p3':'Autour de cet axe se déploient des espaces intimes : jardins cachés, piscine, salons verts, potager. Le projet restitue au jardin sa fonction première : accueillir, rassembler et réinscrire le site dans une dynamique vivante et écologique.',
+    'ambassade.desc.p1':'Le jardin de la résidence de France a été pensé comme un lieu de partage et de mémoire, un espace qui raconte l\'histoire du lieu tout en l\'ancrant dans le présent.',
+    'ambassade.desc.p2':'Le projet s\'appuie sur les matériaux et les traces existantes : pierres anciennes, bassins oubliés et végétation en place. Grands ficus, palmiers royaux et massifs denses de végétaux exotiques, autant de présences respectées, retravaillées et ouvertes à la lumière pour redonner souffle et équilibre au jardin.',
+    'ambassade.desc.p3':'Au cœur de la résidence, une grande pelouse s\'ouvre en perspective vers la statue, mettant en relation la villa et la profondeur de ce paysage miniature. Autour de cet axe se déploient des espaces plus intimes : jardins cachés, piscine, chambres de verdure et potager. Entre héritage et vitalité, le jardin retrouve son rôle : accueillir, rassembler et réinscrire le site dans une dynamique vivante et écologique.',
     'ambassade.nav.next.title':'Jardin Privé, Auvergne',
 
     /* Jardin Privé */
@@ -157,9 +157,9 @@ const T = {
     'jardin.meta.scope':'Conception complète &amp; exécution','jardin.meta.type':'Propriété privée, 2 ha',
     'jardin.meta.status':'Réalisé',
     'jardin.desc.h3':'Un lieu habité,<br>ouvert à son environnement.',
-    'jardin.desc.p1':'Ce jardin privé en Auvergne s\'articule autour d\'une grande prairie fauchée une fois l\'an, qui s\'ouvre sur un vallon doux où coule un ruisseau. La vue offre une lecture claire sur le vallon et les reliefs environnants.',
-    'jardin.desc.p2':'Un ancien lavoir, redécouvert au cours du projet, et un petit plan d\'eau bordé de saules blancs ponctuent le paysage. Ces éléments patrimoniaux ont été conservés et mis en valeur, révélant l\'histoire du lieu.',
-    'jardin.desc.p3':'Autour de la maison, une succession d\'espaces habités — jardin ombragé, potager, jardin ornemental, verger replanté — forme un lieu à la fois domestique et profondément écologique, inscrit dans la dynamique naturelle du site.',
+    'jardin.desc.p1':'Ce jardin privé, situé en Auvergne, s\'étend sur deux hectares. Il s\'articule autour d\'une grande prairie fauchée une fois l\'an, qui s\'ouvre sur un vallon doux où coule un ruisseau. En contrebas, un ancien lavoir a été redécouvert, ainsi qu\'une minuscule pièce d\'eau nichée entre de grands saules blancs, point de fraîcheur discret qui prolonge la perspective depuis la terrasse de la maison.',
+    'jardin.desc.p2':'De là, la vue offre une lecture claire sur le vallon et les reliefs environnants. Autour de l\'ancien corps de ferme, le jardin se déploie en une série d\'espaces de vie : jardin d\'ombre, potager, jardin d\'ornement et verger replanté.',
+    'jardin.desc.p3':'L\'ensemble compose un lieu à la fois habité et ouvert sur son environnement, un écosystème qui accompagne les dynamiques naturelles du site, profondément écologique.',
     'jardin.nav.next.title':'Hôtel Iberostar Grand Packard',
 
     /* Iberostar */
@@ -167,9 +167,9 @@ const T = {
     'iberostar.meta.scope':'Espaces extérieurs, patio, terrasses, piscine','iberostar.meta.type':'Hôtel de luxe, 3 000 m²',
     'iberostar.meta.status':'Réalisé',
     'iberostar.desc.h3':'Des jardins suspendus<br>au-dessus de La Havane.',
-    'iberostar.desc.p1':'Cet hôtel à l\'entrée du Paseo del Prado réunit deux atmosphères distinctes. Le patio de plain-pied, avec ses palmiers Licuala grandis et son sous-bois de fougères et liriopes, crée une ambiance intime propice aux réceptions.',
-    'iberostar.desc.p2':'Les terrasses en toiture portent des jardins suspendus avec 60 cm de substrat supportant un couvert végétal complet : Cocothrinax crinita, Heliconia, Alpinia, Calathea, Monstera et diverses plantes d\'ombrage.',
-    'iberostar.desc.p3':'Réalisé en collaboration avec Bouygues Bâtiment International pour le client ALMEST La Havane, ce projet illustre la capacité à concevoir des espaces paysagers de haute qualité dans des contextes architecturaux complexes et sous des latitudes tropicales.',
+    'iberostar.desc.p1':'À l\'entrée du Paseo del Prado, l\'hôtel Grand Packard de La Havane est un établissement 4 étoiles qui se distingue autant par son architecture élégante que par la richesse de ses jardins. Conçu comme un véritable écrin de verdure, il déploie des espaces végétalisés à différents niveaux, offrant aux visiteurs une expérience sensorielle unique au cœur de la ville.',
+    'iberostar.desc.p2':'Au rez-de-chaussée, le patio intérieur s\'inspire des grandes demeures de La Havane, où l\'on retrouve ces cours ombragées, ponctuées d\'eau et conçues comme des refuges rafraîchissants au cœur de la chaleur urbaine. Directement relié au bar et aux espaces festifs de l\'hôtel, ce patio devient un lieu de convivialité animé, accueillant concerts et évènements. Cet espace minéral, habillé de grandes dalles d\'ardoise, s\'ouvre sur un bassin et une composition végétale simple : des palmiers Licuala grandis créant une ombre légère et mouvante, tandis qu\'en sous-étage fougères et liriopes tapissent le sol d\'un tapis végétal luxuriant.',
+    'iberostar.desc.p3':'À l\'opposé, les terrasses situées au dernier étage offrent un tout autre univers. Elles déploient de véritables jardins suspendus, reposant sur 60 cm de terre. En strates hautes, les élégants Cocothrinax crinita structurent l\'espace, tandis qu\'autour prospère une profusion de plantes exubérantes : Heliconia, Alpinia, Calathea, Dieffenbachia, Monstera, Dracaena et Alocasia. Entre l\'élégance minérale du patio et la luxuriance des terrasses, l\'hôtel offre deux atmosphères complémentaires : l\'une propice aux rencontres et aux festivités, l\'autre intime et contemplative, ouverte sur des horizons de verdure.',
     'iberostar.nav.next.title':'Les Normaliennes',
 
     /* Les Normaliennes */
@@ -177,9 +177,9 @@ const T = {
     'normaliennes.meta.scope':'Mandataire — APD, PRO, DCE, EXE','normaliennes.meta.type':'Jardin urbain, 2 ha',
     'normaliennes.meta.status':'Réalisé',
     'normaliennes.desc.h3':'Un jardin traversant<br>au cœur de l\'îlot.',
-    'normaliennes.desc.p1':'La requalification des espaces extérieurs de l\'ancienne IUFM redonne à cet îlot urbain une véritable cohérence paysagère. Une allée piétonne traversante, réalisée en pavés de pierre de Volvic, structure le site et installe un jardin généreux au cœur de l\'îlot.',
-    'normaliennes.desc.p2':'De part et d\'autre, un jardin linéaire de près de deux hectares se déploie : graminées, vivaces, euphorbes, pétasites et sedums, ponctués de plantations structurantes de magnolias et d\'amélanchiers.',
-    'normaliennes.desc.p3':'Les abords alternent bandes engazonnées et dalles de pierre de Volvic posées de manière aléatoire. L\'ensemble forme un jardin à la fois libre dans son expression végétale et rigoureusement dessiné — une continuité paysagère de façade à façade.',
+    'normaliennes.desc.p1':'Le projet de requalification des espaces extérieurs de l\'ancienne IUFM redonne à cet îlot urbain une véritable cohérence paysagère et une valeur d\'usage renouvelée. Au cœur d\'un ensemble mêlant école et logements, le site fait l\'objet d\'une transformation majeure : créer une allée piétonne traversante tout en installant un jardin généreux au cœur de l\'îlot.',
+    'normaliennes.desc.p2':'L\'allée traversante, réalisée en pavés de pierre de Volvic et déclinée en dallages, stabilisé minéral, banquettes et grandes dalles de forme naturelle, structure le site et lui donne une identité commune.',
+    'normaliennes.desc.p3':'De part et d\'autre, un jardin linéaire de près de deux hectares se déploie, composé majoritairement de graminées auxquelles s\'ajoutent vivaces, euphorbes, pétasites et sedums, ponctué de plantations structurantes de magnolias et d\'amélanchiers. L\'ensemble forme un jardin à la fois libre dans son expression végétale et rigoureusement dessiné, offrant une continuité paysagère de façade à façade.',
     'normaliennes.nav.next.title':'Hôtel Melina International',
 
     /* Hôtel Melina International */
@@ -187,9 +187,9 @@ const T = {
     'melina.meta.scope':'ESQ, APD, PRO, DCE, EXE','melina.meta.type':'Hôtel de luxe, 6 ha',
     'melina.meta.status':'Réalisé',
     'melina.desc.h3':'Un jardin botanique<br>face à la mer.',
-    'melina.desc.p1':'Le jardin de l\'hôtel Melina International s\'étend sur six hectares, enveloppant un bâtiment imposant dans un foisonnement végétal. Conçu comme un véritable jardin botanique, il offre une immersion dans la diversité tropicale, révélant l\'identité du site à travers la richesse de ses essences.',
-    'melina.desc.p2':'Les tracés organiques et les chemins en creux invitent à une promenade au cœur d\'une végétation stratifiée, où couvre-sols, arbustes, palmiers et grands arbres s\'entrelacent. Entre le bâtiment et la mer, la piscine se fond dans ce paysage tropical luxuriant.',
-    'melina.desc.p3':'Héliconias, dracénas, alocasias et frangipaniers côtoient palmiers royaux, Washingtonia robusta et cocotiers, composant une canopée dense en bord de mer. Réalisé avec Bouygues Bâtiment International pour ALMEST Varadero.',
+    'melina.desc.p1':'Le jardin de l\'Hôtel International s\'étend sur six hectares, enveloppant un bâtiment imposant dans un foisonnement végétal. Conçu comme un véritable jardin botanique, il offre aux visiteurs une immersion dans la diversité tropicale, révélant l\'identité du site à travers la richesse de ses essences. Les tracés organiques et les chemins en creux invitent à une promenade au cœur d\'une végétation stratifiée, où couvre-sols, arbustes, palmiers et grands arbres s\'entrelacent.',
+    'melina.desc.p2':'Une large partie du jardin se déploie entre le bâtiment et la mer, où la piscine se fond dans ce paysage tropical luxuriant. On y découvre des espèces emblématiques telles que les héliconias, dracénas, alocasias, alpinias, monsteras, aralias, cannes à sucre, cycas revoluta et frangipaniers, complétées de lyriopes et de spathiphyllums en couvre-sol.',
+    'melina.desc.p3':'Palmiers royaux, Washingtonia robusta, cocotiers, Beaucarnea recurvata et palmiers de Santa Lucia se mêlent aux Schefflera, Cordia sebestena et Plumeria, composant une canopée dense et une profusion végétale tropicale en bord de mer.',
     'melina.nav.next.title':'Hôtel Prado Malecón',
 
     /* Hôtel Prado Malecón */
@@ -197,9 +197,9 @@ const T = {
     'prado.meta.scope':'APD, PRO, DCE, EXE','prado.meta.type':'Hôtel de luxe, 1 000 m²',
     'prado.meta.status':'Réalisé',
     'prado.desc.h3':'Un cœur végétal<br>entre Prado et Malecón.',
-    'prado.desc.p1':'À l\'angle du Paseo del Prado et du Malecón, l\'hôtel s\'organise autour d\'un patio de 300 m², véritable cœur végétal reliant les deux ailes du bâtiment. Un cheminement central en terrazzo blanc traverse cet espace de 25 mètres au milieu d\'une végétation tropicale luxuriante.',
-    'prado.desc.p2':'Planté en pleine terre, le jardin accueille Dracaena, Heliconia, fougères, Anthurium, Calathea et Begonia, ainsi que des Monstera deliciosa qui viendront habiller les câbles tendus en hauteur. Des bancs offrent des moments de pause dans ce lieu intime et traversant.',
-    'prado.desc.p3':'Les terrasses, exposées au vent marin, sont ponctuées de palmiers Areca. Depuis les terrasses hautes, le regard embrasse le front de mer, le Paseo del Prado, le Grand Théâtre et le Capitole. Réalisé avec Bouygues Bâtiment International pour Iberostar.',
+    'prado.desc.p1':'Situé à l\'angle du Paseo del Prado et du Malecón, l\'hôtel du Prado s\'organise autour d\'un patio de 300 m², véritable cœur végétal qui relie les deux ailes du bâtiment. Un cheminement central en terrazzo blanc traverse cet espace de 25 mètres de long, invitant le visiteur à se promener au milieu d\'une végétation tropicale luxuriante.',
+    'prado.desc.p2':'Planté en pleine terre, le jardin accueille Dracaena, Heliconia, fougères, Anthurium, Calathea et Begonia, ainsi que des lianes telles que les Monstera deliciosa qui, avec le temps, viendront habiller les câbles en acier inoxydable tendus en hauteur. Des bancs soigneusement disposés offrent des moments de pause dans ce lieu à la fois intime et traversant.',
+    'prado.desc.p3':'Les terrasses, exposées au vent marin, sont ponctuées de pots accueillant des palmiers Areca. Depuis les terrasses basses, la mer et la promenade du Malecón s\'étendent devant nous ; depuis les terrasses hautes, le regard embrasse le front de mer et le Paseo del Prado, qui mène vers le centre historique, le Grand Théâtre et le Capitole.',
     'prado.nav.next.title':'Pôle Touristique Cayo Cruz',
 
     /* Pôle Touristique Cayo Cruz */
@@ -207,9 +207,9 @@ const T = {
     'cayo.meta.scope':'APD, PRO, DCE, EXE','cayo.meta.type':'Complexe hôtelier, 15 ha',
     'cayo.meta.status':'Réalisé',
     'cayo.desc.h3':'Préserver une île,<br>habiter son paysage.',
-    'cayo.desc.p1':'Sur une petite île des Caraïbes, ce complexe hôtelier s\'implante sur une parcelle de quinze hectares. Les bâtiments aux patios circulaires, aux formes organiques, s\'intègrent dans la végétation tropicale existante.',
-    'cayo.desc.p2':'L\'enjeu majeur : préserver le paysage naturel. Les circulations et chemins de sable sont redessinés sur site pour contourner les arbres remarquables, en respectant la topographie subtile des lieux, marquée par des sables fossilisés et une flore spécifique.',
-    'cayo.desc.p3':'Un jardin de loisir accueille une piscine dont les plages de formes organiques s\'insèrent discrètement dans le site. Dans les patios, une palette ornementale dialogue avec les espèces autochtones et endémiques. Réalisé avec Bouygues Bâtiment International pour ALMEST.',
+    'cayo.desc.p1':'L\'hôtel Coco de Mar est implanté sur une parcelle de 15 hectares, sur une petite île des Caraïbes. Le projet s\'articule autour de bâtiments aux patios circulaires, aux formes organiques, intégrés dans la végétation tropicale existante.',
+    'cayo.desc.p2':'L\'enjeu majeur est de préserver le paysage naturel : les circulations et chemins de sable sont redessinés sur site pour contourner les arbres et sujets remarquables, tout en respectant la topographie subtile des lieux, marquée par des sables fossilisés et une flore spécifique.',
+    'cayo.desc.p3':'Au cœur de cet environnement, un jardin de loisir accueille une piscine dont les plages aux formes organiques s\'intègrent à la topographie du site. Dans les patios, une palette végétale ornementale dialogue avec les espèces autochtones et endémiques, créant un équilibre entre l\'apport de nouvelles essences et la mise en valeur du patrimoine végétal existant.',
     'cayo.nav.next.title':'Hôtel Corona',
 
     /* Hôtel Corona */
@@ -217,9 +217,9 @@ const T = {
     'corona.meta.scope':'APD, PRO, DCE, EXE','corona.meta.type':'Hôtel de luxe, patio 1 000 m²',
     'corona.meta.status':'Réalisé',
     'corona.desc.h3':'Un refuge tropical<br>au centre de la ville.',
-    'corona.desc.p1':'Au cœur d\'un ancien bâtiment réhabilité en hôtel s\'ouvre un patio central de près de 1 000 m² — écrin minéral et végétal. Le sol en granit noir capte la lumière et renforce l\'atmosphère feutrée du lieu, entre fraîcheur et profondeur.',
-    'corona.desc.p2':'Pour rejoindre la terrasse centrale, les visiteurs traversent une épaisseur végétale de deux à cinq mètres sous un couvert de feuillages exotiques, avant de déboucher au cœur du patio — puits de lumière ouvert sur le ciel.',
-    'corona.desc.p3':'Anthurium, Begonia, Calathea et Heliconia composent le sous-étage ombragé ; Dracaena et Monstera tissent une trame dense ; Licuala grandis, Washingtonia et les majestueux arbres du voyageur élèvent leurs silhouettes au-dessus du patio. Un refuge tropical au centre de la ville.',
+    'corona.desc.p1':'Au cœur de cet ancien bâtiment réhabilité en hôtel de cinq étages s\'ouvre un patio central de près de 1 000 m² — écrin minéral et végétal, à la fois lieu de détente et d\'immersion sensorielle. Le sol, en granit noir, capte la lumière et renforce l\'atmosphère feutrée du lieu, entre fraîcheur et profondeur.',
+    'corona.desc.p2':'Autour de cet espace s\'épanouit une végétation luxuriante. Pour rejoindre la terrasse centrale, les visiteurs traversent cette épaisseur végétale de deux à cinq mètres sous un couvert de feuillages exotiques, avant de déboucher au cœur du patio, puits de lumière ouvert sur le ciel où sont disposées les tables autour du bar.',
+    'corona.desc.p3':'Les plantations composent une riche palette tropicale — Anthurium, Begonia, Calathea et Heliconia en sous-étage ombragé, Dracaena et Monstera deliciosa en trame dense, Licuala grandis, Washingtonia et les majestueux Ravenala madagascariensis, arbres du voyageur, élevant leurs silhouettes au-dessus du patio. Un refuge tropical au centre de la ville.',
     'corona.nav.next.title':'La Traversée',
 
     /* La Traversée */
@@ -227,9 +227,9 @@ const T = {
     'traversee.meta.scope':'APD, PRO, DCE, EXE','traversee.meta.type':'Promenade littorale, 800 ml',
     'traversee.meta.status':'Réalisé',
     'traversee.desc.h3':'Une expérience de traversée<br>entre terre et mer.',
-    'traversee.desc.p1':'Cette promenade s\'inscrit dans un site naturel — paysage de roches, d\'eau et de végétation littorale halophile. Traversée par une rivière qui rencontre les flux de marée, elle est devenue plus qu\'un chemin reliant deux points.',
-    'traversee.desc.p2':'La promenade devient une expérience de traversée : entre terre et eau, entre village et mer, entre le cultivé et le sauvage. Chaque séquence révèle une qualité spécifique du paysage — une vue, une texture, un changement de lumière.',
-    'traversee.desc.p3':'La végétation halophile existante a été respectée et complétée par des espèces côtières adaptées, renforçant l\'identité du site plutôt que de l\'effacer. La promenade se fond dans son environnement.',
+    'traversee.desc.p1':'Cette promenade s\'inscrit dans un site naturel — paysage de roches, d\'eau et de végétation littorale halophile.',
+    'traversee.desc.p2':'Entre la mer et le village, un espace de transition s\'ouvre, traversé par une rivière qui vient se mêler aux flux marins. C\'est ici que le chemin trouve sa place, non pas comme une rupture, mais comme un dispositif de continuité entre deux entités du site.',
+    'traversee.desc.p3':'Plutôt qu\'un axe de liaison, la promenade devient une expérience de traversée.',
     'traversee.nav.next.title':'Villa Privée',
 
     /* Project card descriptions (projects.html) */
@@ -378,9 +378,9 @@ const T = {
     'villa.meta.scope':'ESQ, PRO, DCE, EXE','villa.meta.type':'Private residence, 8,000 m²',
     'villa.meta.status':'Completed',
     'villa.desc.h3':'The garden as continuity<br>of the landscape itself.',
-    'villa.desc.p1':'This private villa with contemporary architecture defined by clean lines and a cantilevered portico posed a fundamental question: how do you design a garden for a house by the sea that is as considered as the architecture itself?',
-    'villa.desc.p2':'The garden does not ornament the building — it is its direct continuation into the landscape. Native and endemic vegetation already present on the site was collected, propagated in nurseries, and carefully reintroduced to recreate a living, coherent ecosystem.',
-    'villa.desc.p3':'Terraces integrate discreetly into the natural topography, framing views toward the horizon. Rather than decoration, the garden is the very continuity of the landscape — inhabited and precisely composed.',
+    'villa.desc.p1':'From the entrance, the villa asserts itself through a contemporary architecture of clean lines and a cantilevered portico, at once surprising and weightless. The arrival garden extends this architectural gesture with an ornamental composition whose species are chosen for their decorative value, underlining the assured character of the place.',
+    'villa.desc.p2':'As you move through the interior spaces, the perception reverses. On the sea side, the villa steps back to leave all the room to the site. The volumes melt into the topography and anchor themselves in the landscape. Discreet terraces slip into the natural terrain, opening framed views toward the horizon.',
+    'villa.desc.p3':'Here, the garden is no longer added decoration but the very continuity of the landscape. It is imagined from native and endemic plants already present on the site: carefully collected, propagated in nurseries, then reintroduced to recreate a living, coherent ecosystem.',
     'villa.nav.prev':'All projects','villa.nav.next.title':'Ambassade de France à Cuba',
 
     /* Ambassade */
@@ -388,9 +388,9 @@ const T = {
     'ambassade.meta.scope':'Gardens, cultural space','ambassade.meta.type':'Diplomatic residence, 8,000 m²',
     'ambassade.meta.status':'Completed',
     'ambassade.desc.h3':'A garden of memory<br>and gathering.',
-    'ambassade.desc.p1':'The garden of the French Ambassador\'s residence in Havana was conceived as a place of memory and gathering — a space that tells the history of the site while anchoring it in the present.',
-    'ambassade.desc.p2':'Existing materials, forgotten basins, and heritage vegetation — large fig trees, royal palms, dense exotic plantings — were preserved and opened to light. A central lawn creates perspective toward a statue, connecting the villa to the landscape.',
-    'ambassade.desc.p3':'Around this axis unfold intimate spaces: hidden gardens, a pool, green rooms, a kitchen garden. The project restores the garden\'s function: to welcome, to gather, and to reinscribe the site within a living and ecological dynamic.',
+    'ambassade.desc.p1':'The garden of the residence of France was conceived as a place of sharing and of memory — a space that tells the history of the site while anchoring it in the present.',
+    'ambassade.desc.p2':'The project builds on existing materials and traces: old stone, forgotten basins, and established vegetation. Great fig trees, royal palms and dense masses of exotic planting — presences respected, reworked and opened to the light to give the garden back its breath and balance.',
+    'ambassade.desc.p3':'At the heart of the residence, a great lawn opens in perspective toward the statue, connecting the villa to the depth of this miniature landscape. Around this axis unfold more intimate spaces: hidden gardens, a pool, green rooms and a kitchen garden. Between heritage and vitality, the garden recovers its role: to welcome, to gather, and to reinscribe the site within a living, ecological dynamic.',
     'ambassade.nav.next.title':'Jardin Privé, Auvergne',
 
     /* Jardin Privé */
@@ -398,9 +398,9 @@ const T = {
     'jardin.meta.scope':'Full design &amp; execution','jardin.meta.type':'Private property, 2 ha',
     'jardin.meta.status':'Completed',
     'jardin.desc.h3':'A place both inhabited<br>and open to its environment.',
-    'jardin.desc.p1':'This private garden in the Auvergne region is structured around a large meadow, mowed once a year, that opens onto a gentle valley where a stream runs. The view offers a clear reading of the valley and the surrounding hills.',
-    'jardin.desc.p2':'A former washhouse, rediscovered during the project, and a small pond bordered by white willows punctuate the landscape. These heritage elements were preserved and highlighted, revealing the history of the place.',
-    'jardin.desc.p3':'Around the house, a sequence of inhabited spaces — shaded garden, kitchen garden, ornamental garden, replanted orchard — forms a place that is at once domestic and deeply ecological, inscribed in the natural dynamics of the site.',
+    'jardin.desc.p1':'This private garden in the Auvergne region extends over two hectares. It is structured around a large meadow, mown once a year, that opens onto a gentle valley where a stream runs. Below, a former washhouse was rediscovered, along with a tiny pool nestled among tall white willows — a discreet point of freshness prolonging the view from the terrace of the house.',
+    'jardin.desc.p2':'From there, the view offers a clear reading of the valley and the surrounding hills. Around the former farmhouse, the garden unfolds in a series of living spaces: shade garden, kitchen garden, ornamental garden and replanted orchard.',
+    'jardin.desc.p3':'The whole composes a place at once inhabited and open to its surroundings — an ecosystem that accompanies the natural dynamics of the site, and is deeply ecological.',
     'jardin.nav.next.title':'Hôtel Iberostar Grand Packard',
 
     /* Iberostar */
@@ -408,9 +408,9 @@ const T = {
     'iberostar.meta.scope':'Exterior spaces, patio, terraces, pool','iberostar.meta.type':'Luxury hotel, 3,000 m²',
     'iberostar.meta.status':'Completed',
     'iberostar.desc.h3':'Suspended gardens<br>above Havana.',
-    'iberostar.desc.p1':'This hotel at the entrance to Havana\'s Paseo del Prado brings together two distinct landscape atmospheres. The ground-floor patio, with its Licuala grandis palms and dense understory of ferns and liriopes, creates an intimate setting suited to receptions and events.',
-    'iberostar.desc.p2':'The rooftop terraces carry suspended gardens with 60 cm of growing medium supporting a full canopy of Cocothrinax crinita, Heliconia, Alpinia, Calathea, Monstera and various shade plants.',
-    'iberostar.desc.p3':'Carried out in collaboration with Bouygues Bâtiment International for client ALMEST Havana, this project demonstrates the capacity to design high-quality green spaces within demanding architectural contexts and under tropical latitudes.',
+    'iberostar.desc.p1':'At the entrance to the Paseo del Prado, the Grand Packard hotel in Havana is a four-star establishment as distinguished by its elegant architecture as by the richness of its gardens. Conceived as a true green setting, it unfolds planted spaces on several levels, offering visitors a singular sensory experience at the heart of the city.',
+    'iberostar.desc.p2':'On the ground floor, the interior patio draws on the great houses of Havana, with their shaded courtyards, punctuated by water and conceived as refreshing refuges from the urban heat. Directly linked to the bar and the hotel\'s festive spaces, this patio becomes a lively gathering place for concerts and events. This mineral space, clad in large slate slabs, opens onto a basin and a simple planting: Licuala grandis palms cast a light, moving shade, while below, ferns and liriopes carpet the ground in lush green.',
+    'iberostar.desc.p3':'Opposite, the top-floor terraces offer an entirely different world. They unfold true hanging gardens, set on 60 cm of soil. In the upper strata, elegant Cocothrinax crinita structure the space, surrounded by an exuberant profusion of Heliconia, Alpinia, Calathea, Dieffenbachia, Monstera, Dracaena and Alocasia. Between the mineral elegance of the patio and the lushness of the terraces, the hotel offers two complementary atmospheres: one for gathering and festivity, the other intimate and contemplative, open onto horizons of green.',
     'iberostar.nav.next.title':'Les Normaliennes',
 
     /* Les Normaliennes */
@@ -418,9 +418,9 @@ const T = {
     'normaliennes.meta.scope':'Lead consultant — APD, PRO, DCE, EXE','normaliennes.meta.type':'Urban garden, 2 ha',
     'normaliennes.meta.status':'Completed',
     'normaliennes.desc.h3':'A traversing garden<br>at the heart of the block.',
-    'normaliennes.desc.p1':'The requalification of the former IUFM grounds restores genuine landscape coherence to this urban block. A traversing pedestrian walk, laid in Volvic stone setts, structures the site and installs a generous garden at its heart.',
-    'normaliennes.desc.p2':'On either side unfolds a linear garden of nearly two hectares: grasses, perennials, euphorbias, petasites, and sedums, punctuated by structural plantings of magnolias and serviceberries.',
-    'normaliennes.desc.p3':'The edges alternate strips of lawn with Volvic stone slabs laid in a loose rhythm. The whole forms a garden at once free in its planting and rigorously drawn — landscape continuity from façade to façade.',
+    'normaliennes.desc.p1':'The requalification of the former IUFM grounds restores genuine landscape coherence and renewed value to this urban block. At the heart of a mix of school and housing, the site undergoes a major transformation: creating a traversing pedestrian walk while installing a generous garden at the centre of the block.',
+    'normaliennes.desc.p2':'The traversing walk, laid in Volvic stone setts and declined in paving, mineral stabilisation, benches and large natural-form slabs, structures the site and gives it a shared identity.',
+    'normaliennes.desc.p3':'On either side unfolds a linear garden of nearly two hectares, composed mainly of grasses joined by perennials, euphorbias, petasites and sedums, punctuated by structural plantings of magnolias and serviceberries. The whole forms a garden at once free in its planting and rigorously drawn, offering landscape continuity from façade to façade.',
     'normaliennes.nav.next.title':'Hôtel Melina International',
 
     /* Hôtel Melina International */
@@ -428,9 +428,9 @@ const T = {
     'melina.meta.scope':'ESQ, APD, PRO, DCE, EXE','melina.meta.type':'Luxury hotel, 6 ha',
     'melina.meta.status':'Completed',
     'melina.desc.h3':'A botanical garden<br>facing the sea.',
-    'melina.desc.p1':'The gardens of the Melina International span six hectares, wrapping an imposing building in an abundance of vegetation. Conceived as a true botanical garden, they offer an immersion in tropical diversity, revealing the identity of the site through the richness of its species.',
-    'melina.desc.p2':'Organic paths and sunken walkways invite a stroll through stratified vegetation, where ground covers, shrubs, palms, and large trees interweave. Between the building and the sea, the pool dissolves into this lush tropical landscape.',
-    'melina.desc.p3':'Heliconias, dracaenas, alocasias, and frangipanis stand alongside royal palms, Washingtonia robusta, and coconut palms, composing a dense seaside canopy. Delivered with Bouygues Bâtiment International for ALMEST Varadero.',
+    'melina.desc.p1':'The gardens of the International hotel span six hectares, wrapping an imposing building in an abundance of vegetation. Conceived as a true botanical garden, they offer an immersion in tropical diversity, revealing the identity of the site through the richness of its species. Organic paths and sunken walkways invite a stroll through stratified vegetation, where ground covers, shrubs, palms and large trees interweave.',
+    'melina.desc.p2':'A large part of the garden unfolds between the building and the sea, where the pool dissolves into this lush tropical landscape. Here you find emblematic species — heliconias, dracaenas, alocasias, alpinias, monsteras, aralias, sugar cane, cycas revoluta and frangipanis — complemented by liriopes and spathiphyllums as ground cover.',
+    'melina.desc.p3':'Royal palms, Washingtonia robusta, coconut palms, Beaucarnea recurvata and Santa Lucia palms mingle with Schefflera, Cordia sebestena and Plumeria, composing a dense canopy and a profusion of tropical planting by the sea.',
     'melina.nav.next.title':'Hôtel Prado Malecón',
 
     /* Hôtel Prado Malecón */
@@ -438,9 +438,9 @@ const T = {
     'prado.meta.scope':'APD, PRO, DCE, EXE','prado.meta.type':'Luxury hotel, 1,000 m²',
     'prado.meta.status':'Completed',
     'prado.desc.h3':'A living heart<br>between Prado and Malecón.',
-    'prado.desc.p1':'At the corner of the Paseo del Prado and the Malecón, the hotel is organised around a 300 m² patio — a living heart connecting the building\'s two wings. A central path of white terrazzo crosses this 25-metre space through lush tropical vegetation.',
-    'prado.desc.p2':'Planted in open ground, the garden gathers Dracaena, Heliconia, ferns, Anthurium, Calathea, and Begonia, along with Monstera deliciosa that will in time clothe the cables stretched overhead. Benches offer moments of pause in this intimate, traversing space.',
-    'prado.desc.p3':'The terraces, exposed to the sea wind, are punctuated with Areca palms. From the upper terraces, the view embraces the seafront, the Paseo del Prado, the Grand Theatre, and the Capitol. Delivered with Bouygues Bâtiment International for Iberostar.',
+    'prado.desc.p1':'At the corner of the Paseo del Prado and the Malecón, the Prado hotel is organised around a 300 m² patio — a true living heart connecting the building\'s two wings. A central path of white terrazzo crosses this 25-metre-long space, inviting the visitor to wander through lush tropical vegetation.',
+    'prado.desc.p2':'Planted in open ground, the garden holds Dracaena, Heliconia, ferns, Anthurium, Calathea and Begonia, along with climbers such as Monstera deliciosa that will in time clothe the stainless-steel cables stretched overhead. Carefully placed benches offer moments of pause in this intimate, traversing space.',
+    'prado.desc.p3':'The terraces, exposed to the sea wind, are punctuated with pots of Areca palms. From the lower terraces, the sea and the Malecón promenade stretch out before you; from the upper terraces, the gaze embraces the seafront and the Paseo del Prado, leading toward the historic centre, the Grand Theatre and the Capitol.',
     'prado.nav.next.title':'Pôle Touristique Cayo Cruz',
 
     /* Pôle Touristique Cayo Cruz */
@@ -448,9 +448,9 @@ const T = {
     'cayo.meta.scope':'APD, PRO, DCE, EXE','cayo.meta.type':'Resort, 15 ha',
     'cayo.meta.status':'Completed',
     'cayo.desc.h3':'Preserving an island,<br>inhabiting its landscape.',
-    'cayo.desc.p1':'On a small Caribbean island, this resort takes its place on a fifteen-hectare site. Buildings with circular patios and organic forms settle into the existing tropical vegetation.',
-    'cayo.desc.p2':'The central challenge: preserving the natural landscape. Paths and sand tracks were redrawn on site to skirt the remarkable trees, respecting the subtle topography of the place, marked by fossilised sands and a specific flora.',
-    'cayo.desc.p3':'A leisure garden hosts a pool whose organically shaped decks settle discreetly into the site. In the patios, an ornamental palette dialogues with native and endemic species. Delivered with Bouygues Bâtiment International for ALMEST.',
+    'cayo.desc.p1':'The Coco de Mar hotel sits on a 15-hectare plot, on a small Caribbean island. The project is organised around buildings with circular patios and organic forms, set within the existing tropical vegetation.',
+    'cayo.desc.p2':'The central challenge is to preserve the natural landscape: paths and sand tracks are redrawn on site to skirt the remarkable trees and specimens, while respecting the subtle topography of the place, marked by fossilised sands and a specific flora.',
+    'cayo.desc.p3':'At the heart of this setting, a leisure garden holds a pool whose organically shaped decks settle into the site\'s topography. In the patios, an ornamental planting palette dialogues with native and endemic species, striking a balance between new species and the enhancement of the existing plant heritage.',
     'cayo.nav.next.title':'Hôtel Corona',
 
     /* Hôtel Corona */
@@ -458,9 +458,9 @@ const T = {
     'corona.meta.scope':'APD, PRO, DCE, EXE','corona.meta.type':'Luxury hotel, 1,000 m² patio',
     'corona.meta.status':'Completed',
     'corona.desc.h3':'A tropical refuge<br>in the centre of the city.',
-    'corona.desc.p1':'At the heart of a former building converted into a hotel opens a central patio of nearly 1,000 m² — a mineral and living setting. The black granite floor catches the light and deepens the hushed atmosphere of the place, between coolness and depth.',
-    'corona.desc.p2':'To reach the central terrace, visitors cross a two-to-five-metre thickness of vegetation beneath a canopy of exotic foliage, before emerging at the heart of the patio — a well of light open to the sky.',
-    'corona.desc.p3':'Anthurium, Begonia, Calathea, and Heliconia compose the shaded understory; Dracaena and Monstera weave a dense framework; Licuala grandis, Washingtonia, and the majestic travellers\' trees raise their silhouettes above the patio. A tropical refuge in the centre of the city.',
+    'corona.desc.p1':'At the heart of this former building, converted into a five-storey hotel, opens a central patio of nearly 1,000 m² — a mineral and living setting, at once a place of rest and of sensory immersion. The black granite floor catches the light and deepens the hushed atmosphere of the place, between coolness and depth.',
+    'corona.desc.p2':'Around this space flourishes a lush vegetation. To reach the central terrace, visitors cross this two-to-five-metre depth of planting beneath a canopy of exotic foliage, before emerging at the heart of the patio — a well of light open to the sky, where tables are set around the bar.',
+    'corona.desc.p3':'The plantings compose a rich tropical palette — Anthurium, Begonia, Calathea and Heliconia in the shaded understory, Dracaena and Monstera deliciosa as a dense framework, Licuala grandis, Washingtonia and the majestic Ravenala madagascariensis, travellers\' trees, raising their silhouettes above the patio. A tropical refuge in the centre of the city.',
     'corona.nav.next.title':'La Traversée',
 
     /* La Traversée */
@@ -468,9 +468,9 @@ const T = {
     'traversee.meta.scope':'APD, PRO, DCE, EXE','traversee.meta.type':'Coastal promenade, 800 ml',
     'traversee.meta.status':'Completed',
     'traversee.desc.h3':'An experience of crossing<br>between land and sea.',
-    'traversee.desc.p1':'This promenade is set within a natural landscape — a site of rock, water, and halophytic littoral vegetation. Traversed by a river meeting tidal flows from the sea, it became more than a path between two points.',
-    'traversee.desc.p2':'The promenade becomes an experience of crossing: between land and water, between village and sea, between the cultivated and the wild. Each sequence reveals a specific quality of the landscape — a view, a texture, a change in light.',
-    'traversee.desc.p3':'The existing halophytic vegetation was respected and complemented by adapted coastal species, reinforcing the identity of the site rather than erasing it. The promenade folds into its environment.',
+    'traversee.desc.p1':'This promenade is set within a natural landscape — a site of rock, water and halophytic coastal vegetation.',
+    'traversee.desc.p2':'Between the sea and the village, a space of transition opens, crossed by a river that mingles with the tidal flows. It is here that the path finds its place, not as a rupture, but as a device of continuity between two parts of the site.',
+    'traversee.desc.p3':'Rather than a mere link, the promenade becomes an experience of crossing.',
     'traversee.nav.next.title':'Villa Privée',
 
     /* Project card descriptions */
