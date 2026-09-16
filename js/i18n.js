@@ -72,7 +72,7 @@ const T = {
     'projects.hero.label':'Commandes sélectionnées','projects.hero.h1':'Projets',
     'projects.hero.p':'Une sélection soignée de commandes paysagères. Chaque projet est un dialogue singulier entre le site, l\'architecture et la manière d\'habiter un lieu.',
     'projects.cta.label':'Commandes',
-    'projects.cta.h2':'Un projet qui mérite<br>une attention particulière ?',
+    'projects.cta.h2':'Parlons de votre projet.',
     'projects.cta.p':'Les commandes sont acceptées de façon sélective. N\'hésitez pas à me contacter pour discuter de votre projet.',
 
     /* About page */
@@ -112,6 +112,7 @@ const T = {
     'contact.hero.p':'J\'interviens sur des projets privés — châteaux, domaines, propriétés d\'exception — ainsi que dans le cadre de collaborations avec des architectes et des décorateurs ou pour des demandes d\'études.',
     'contact.hero.p2':'Chaque projet commence par un échange, afin de comprendre son histoire, ses enjeux et les attentes de ses commanditaires. Je privilégie les projets dont le contexte, l\'ambition et la démarche font écho à ma pratique et à mon regard de paysagiste.',
     'contact.info.label':'Un échange direct',
+    'contact.info.h2':'Un bureau privé,<br>pas un standard.',
     'contact.info.p1':'La façon la plus directe de me joindre est par email. Je réponds personnellement à chaque demande, généralement dans les deux jours ouvrés.',
     'contact.info.p2':'Si vous préférez échanger de vive voix, envoyez-moi un court message par email. Je vous proposerai alors un appel à un moment qui vous convient.',
     'contact.link.email.label':'E-mail','contact.link.phone.label':'Téléphone',
@@ -142,7 +143,7 @@ const T = {
     'villa.h1':'Villa Privée','villa.meta.location':'France',
     'villa.meta.scope':'ESQ, PRO, DCE, EXE','villa.meta.type':'Résidence privée, 8 000 m²',
     'villa.meta.status':'Réalisé',
-    'villa.desc.h3':'Le jardin comme continuité<br>du paysage lui-même.',
+    'villa.desc.h3':'Une villa en continuité<br>avec le paysage.',
     'villa.desc.p1':'Dès l\'entrée, la villa s\'affirme par une architecture contemporaine, définie par des lignes épurées et un porche en porte-à-faux qui crée une sensation à la fois surprenante et aérienne. Le jardin d\'accueil prolonge ce geste architectural grâce à une composition ornementale où les essences sont choisies pour leur valeur décorative, soulignant ainsi le caractère affirmé du lieu.',
     'villa.desc.p2':'En parcourant les espaces intérieurs, la perception s\'inverse. Côté mer, la villa s\'efface pour laisser toute la place au site. Les volumes se fondent dans la topographie et s\'ancrent dans le paysage. Des terrasses discrètes s\'insèrent dans le terrain naturel, ouvrant des vues cadrées vers l\'horizon et les éléments.',
     'villa.desc.p3':'Ici, le jardin n\'est plus un décor ajouté, mais la continuité même du paysage. Il est imaginé à partir de végétaux autochtones et endémiques, déjà présents sur le site : collectés avec soin, multipliés en pépinière, puis réintroduits pour recréer un écosystème vivant et cohérent.',
@@ -325,7 +326,7 @@ const T = {
     'projects.hero.label':'Selected commissions','projects.hero.h1':'Projects',
     'projects.hero.p':'A careful selection of private landscape commissions. Each project represents a specific dialogue between site, architecture, and the way a place is lived in.',
     'projects.cta.label':'Commissions',
-    'projects.cta.h2':'Working on a project<br>that deserves serious attention?',
+    'projects.cta.h2':'Let\'s talk about your project.',
     'projects.cta.p':'Commissions are accepted selectively. Please reach out to discuss your project.',
 
     /* About page */
@@ -365,6 +366,7 @@ const T = {
     'contact.hero.p':'I work on private projects — châteaux, estates, exceptional properties — as well as in collaboration with architects and interior designers, or for study commissions.',
     'contact.hero.p2':'Every project begins with a conversation, to understand its history, its challenges and the expectations of its owners. I favour projects whose context, ambition and approach resonate with my practice and my eye as a landscape architect.',
     'contact.info.label':'A direct conversation',
+    'contact.info.h2':'A private office,<br>not a call centre.',
     'contact.info.p1':'The most direct way to reach me is by email. I reply personally to every enquiry, usually within two working days.',
     'contact.info.p2':'If you would rather speak, send me a short message by email. I will then suggest a call at a time that suits you.',
     'contact.link.email.label':'Email','contact.link.phone.label':'Phone',
@@ -395,7 +397,7 @@ const T = {
     'villa.h1':'Villa Privée','villa.meta.location':'France',
     'villa.meta.scope':'ESQ, PRO, DCE, EXE','villa.meta.type':'Private residence, 8,000 m²',
     'villa.meta.status':'Completed',
-    'villa.desc.h3':'The garden as continuity<br>of the landscape itself.',
+    'villa.desc.h3':'A villa in continuity<br>with the landscape.',
     'villa.desc.p1':'From the entrance, the villa asserts itself through a contemporary architecture of clean lines and a cantilevered portico, at once surprising and weightless. The arrival garden extends this architectural gesture with an ornamental composition whose species are chosen for their decorative value, underlining the assured character of the place.',
     'villa.desc.p2':'As you move through the interior spaces, the perception reverses. On the sea side, the villa steps back to leave all the room to the site. The volumes melt into the topography and anchor themselves in the landscape. Discreet terraces slip into the natural terrain, opening framed views toward the horizon.',
     'villa.desc.p3':'Here, the garden is no longer added decoration but the very continuity of the landscape. It is imagined from native and endemic plants already present on the site: carefully collected, propagated in nurseries, then reintroduced to recreate a living, coherent ecosystem.',
