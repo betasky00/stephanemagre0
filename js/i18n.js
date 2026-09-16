@@ -64,15 +64,15 @@ const T = {
     'home.credibility.stat2.label':'Commandes réalisées',
     'home.credibility.stat3.label':'Continents',
     'home.credibility.stat4.label':'Plus grand domaine',
-    'home.cta.label':'Contact',
-    'home.cta.h2':'Vous avez un projet ?',
+    'home.cta.label':'Commandes',
+    'home.cta.h2':'Pour des commandes<br>et collaborations privées.',
     'home.cta.p':'Les projets sont acceptés de façon sélective. Si votre demeure — château, domaine ou propriété d\'exception — mérite une vision paysagère sérieuse, prenez contact.',
 
     /* Projects page */
     'projects.hero.label':'Réalisations','projects.hero.h1':'Projets',
     'projects.hero.p':'Une sélection de projets réalisés en France et à l\'international.',
-    'projects.cta.label':'Contact',
-    'projects.cta.h2':'Parlons de votre projet.',
+    'projects.cta.label':'Commandes',
+    'projects.cta.h2':'Pour une commande<br>ou une collaboration.',
     'projects.cta.p':'Les commandes sont acceptées de façon sélective. N\'hésitez pas à me contacter pour discuter de votre projet.',
 
     /* About page */
@@ -112,14 +112,14 @@ const T = {
     'contact.hero.p':'J\'interviens sur des projets privés — châteaux, domaines, propriétés d\'exception — ainsi que dans le cadre de collaborations avec des architectes et des décorateurs ou pour des demandes d\'études.',
     'contact.hero.p2':'Chaque projet commence par un échange, afin de comprendre son histoire, ses enjeux et les attentes de ses commanditaires. Je privilégie les projets dont le contexte, l\'ambition et la démarche font écho à ma pratique et à mon regard de paysagiste.',
     'contact.info.label':'Un échange direct',
-    'contact.info.h2':'Écrivez-moi.',
+    'contact.info.h2':'Entrer en relation.',
     'contact.info.p1':'La façon la plus directe de me joindre est par email. Je réponds personnellement à chaque demande, généralement dans les deux jours ouvrés.',
     'contact.info.p2':'Si vous préférez échanger de vive voix, envoyez-moi un court message par email. Je vous proposerai alors un appel à un moment qui vous convient.',
     'contact.link.email.label':'E-mail','contact.link.phone.label':'Téléphone',
     'contact.link.linkedin.label':'LinkedIn','contact.link.location.label':'Localisation',
     'contact.link.location.value':'Paris, France',
     'contact.note.p':'Les projets sont acceptés de façon sélective. J\'interviens sur un nombre limité de commandes à la fois, et consacre à chacune toute mon attention. Si je ne suis pas disponible pour votre calendrier, je vous le dirai directement.',
-    'contact.faq.label':'Questions fréquentes','contact.faq.h2':'Les questions que l\'on me pose.',
+    'contact.faq.label':'Informations','contact.faq.h2':'Questions fréquentes.',
     'contact.faq.q1':'Où intervenez-vous ?',
     'contact.faq.a1':'Basé à Paris, j\'interviens dans toute la France — Île-de-France, Provence, Côte d\'Azur, Auvergne, littoral atlantique — ainsi qu\'à l\'international.',
     'contact.faq.q2':'Travaillez-vous sur les parcs de châteaux et demeures historiques ?',
@@ -132,11 +132,11 @@ const T = {
     'contact.faq.a5':'Par un simple message ou un appel. Pour les parcs, je propose une étude de parc : diagnostic, concept directeur et feuille de route chiffrée.',
 
     /* Shared project labels */
-    'project.eyebrow':'Projet',
+    'project.eyebrow':'Commande',
     'project.meta.location':'Localisation','project.meta.scope':'Mission',
     'project.meta.type':'Type','project.meta.status':'Statut',
     'project.meta.partner':'En collaboration avec',
-    'project.desc.label':'Le projet',
+    'project.desc.label':'Intention du projet',
     'project.nav.back':'Tous les projets','project.nav.next.label':'Projet suivant',
 
     /* Villa Privée */
@@ -318,15 +318,15 @@ const T = {
     'home.credibility.stat2.label':'Commissions completed',
     'home.credibility.stat3.label':'Continents',
     'home.credibility.stat4.label':'Largest estate',
-    'home.cta.label':'Contact',
-    'home.cta.h2':'Do you have a project?',
+    'home.cta.label':'Commissions',
+    'home.cta.h2':'For private commissions<br>and collaborations.',
     'home.cta.p':'Projects are accepted selectively. If your property — château, estate, or exceptional residence — deserves a serious landscape vision, please get in touch.',
 
     /* Projects page */
     'projects.hero.label':'Selected work','projects.hero.h1':'Projects',
     'projects.hero.p':'A selection of projects completed in France and internationally.',
-    'projects.cta.label':'Contact',
-    'projects.cta.h2':'Let\'s talk about your project.',
+    'projects.cta.label':'Commissions',
+    'projects.cta.h2':'For a commission<br>or a collaboration.',
     'projects.cta.p':'Commissions are accepted selectively. Please reach out to discuss your project.',
 
     /* About page */
@@ -366,14 +366,14 @@ const T = {
     'contact.hero.p':'I work on private projects — châteaux, estates, exceptional properties — as well as in collaboration with architects and interior designers, or for study commissions.',
     'contact.hero.p2':'Every project begins with a conversation, to understand its history, its challenges and the expectations of its owners. I favour projects whose context, ambition and approach resonate with my practice and my eye as a landscape architect.',
     'contact.info.label':'A direct conversation',
-    'contact.info.h2':'Write to me.',
+    'contact.info.h2':'Getting in touch.',
     'contact.info.p1':'The most direct way to reach me is by email. I reply personally to every enquiry, usually within two working days.',
     'contact.info.p2':'If you would rather speak, send me a short message by email. I will then suggest a call at a time that suits you.',
     'contact.link.email.label':'Email','contact.link.phone.label':'Phone',
     'contact.link.linkedin.label':'LinkedIn','contact.link.location.label':'Location',
     'contact.link.location.value':'Paris, France',
     'contact.note.p':'Projects are accepted selectively. I work with a small number of clients at any one time, and give each commission my full attention. If I am not available for your timeline, I will say so directly.',
-    'contact.faq.label':'Frequently asked','contact.faq.h2':'The questions I am asked.',
+    'contact.faq.label':'Information','contact.faq.h2':'Frequently asked questions.',
     'contact.faq.q1':'Where do you work?',
     'contact.faq.a1':'Based in Paris, I work across France — Île-de-France, Provence, the French Riviera, Auvergne, the Atlantic coast — as well as internationally.',
     'contact.faq.q2':'Do you work on château parks and historic estates?',
@@ -386,11 +386,11 @@ const T = {
     'contact.faq.a5':'With a message or a call. For parks, I offer a park study: a diagnostic, a guiding concept and a costed roadmap.',
 
     /* Shared project labels */
-    'project.eyebrow':'Project',
+    'project.eyebrow':'Commission',
     'project.meta.location':'Location','project.meta.scope':'Scope',
     'project.meta.type':'Type','project.meta.status':'Status',
     'project.meta.partner':'In collaboration with',
-    'project.desc.label':'The project',
+    'project.desc.label':'Design intent',
     'project.nav.back':'All projects','project.nav.next.label':'Next project',
 
     /* Villa Privée */
