@@ -418,6 +418,30 @@ p {
   text-shadow: 0 1px 14px rgba(0,0,0,0.5);
 }
 
+/* Cover-page hero: name, role, then the three descriptor lines */
+.hero__role {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: rgba(255,255,255,0.9);
+  margin-bottom: 1.8rem;
+  text-shadow: 0 1px 14px rgba(0,0,0,0.5);
+}
+
+.hero__lines {
+  font-family: var(--sans);
+  font-size: clamp(0.82rem, 0.95vw, 0.95rem);
+  font-weight: 300;
+  line-height: 2.1;
+  color: rgba(255,255,255,0.85);
+  max-width: 680px;
+  margin-bottom: 2.8rem;
+  text-shadow: 0 1px 14px rgba(0,0,0,0.5);
+}
+
 .hero__actions {
   display: flex;
   align-items: center;
