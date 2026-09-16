@@ -7,7 +7,7 @@ const T = {
   fr: {
     'nav.home':'Accueil','nav.projects':'Projets','nav.about':'À propos','nav.contact':'Contact',
     'lang.other':'EN',
-    'footer.sub':'Paysagiste concepteur · Paris','footer.copy':'© 2026 Stéphane Magre',
+    'footer.sub':'Paysagiste · Paris','footer.copy':'© 2026 Stéphane Magre',
     'btn.view-projects':'Voir les projets','btn.all-projects':'Tous les projets',
     'btn.contact':'Contact','btn.approach':'L\'approche','btn.in-touch':'Prendre contact',
     'btn.book':'Réserver un appel',
