@@ -63,16 +63,16 @@ const T = {
     'home.credibility.stat1.label':'Années de pratique',
     'home.credibility.stat2.label':'Commandes réalisées',
     'home.credibility.stat3.label':'Continents',
-    'home.credibility.stat4.label':'Plus vaste domaine',
+    'home.credibility.stat4.label':'Plus grand domaine',
     'home.cta.label':'Commandes',
     'home.cta.h2':'Pour des commandes<br>et collaborations privées.',
     'home.cta.p':'Les projets sont acceptés de façon sélective. Si votre demeure — château, domaine ou propriété d\'exception — mérite une vision paysagère sérieuse, prenez contact.',
 
     /* Projects page */
     'projects.hero.label':'Commandes sélectionnées','projects.hero.h1':'Projets',
-    'projects.hero.p':'Une sélection soignée de commandes paysagères. Chaque projet représente un dialogue singulier entre le site, l\'architecture et la manière d\'habiter un lieu.',
+    'projects.hero.p':'Une sélection soignée de commandes paysagères. Chaque projet est un dialogue singulier entre le site, l\'architecture et la manière d\'habiter un lieu.',
     'projects.cta.label':'Commandes',
-    'projects.cta.h2':'Un projet qui mérite<br>une attention sérieuse ?',
+    'projects.cta.h2':'Un projet qui mérite<br>une attention particulière ?',
     'projects.cta.p':'Les commandes sont acceptées de façon sélective. N\'hésitez pas à me contacter pour discuter de votre projet.',
 
     /* About page */
@@ -124,7 +124,7 @@ const T = {
     'contact.faq.q2':'Travaillez-vous sur les parcs de châteaux et demeures historiques ?',
     'contact.faq.a2':'Oui. La restauration et la replantation de parcs de châteaux, de monuments et de propriétés d\'exception sont au cœur de ma pratique.',
     'contact.faq.q3':'Quels types de projets acceptez-vous ?',
-    'contact.faq.a3':'Jardins de propriétés privées, parcs de demeures, jardins méditerranéens et littoraux, hôtels et lieux de prestige — en France comme à l\'international.',
+    'contact.faq.a3':'Jardins de propriétés privées, parcs de demeures historiques, jardins méditerranéens et littoraux, hôtels et lieux de prestige — en France comme à l\'international.',
     'contact.faq.q4':'Assurez-vous le suivi des travaux ?',
     'contact.faq.a4':'Oui — un accompagnement complet : conception, dossiers d\'exécution et suivi de chantier, jusqu\'à la livraison et l\'entretien.',
     'contact.faq.q5':'Comment démarrer un projet ?',
@@ -245,13 +245,13 @@ const T = {
     'traversee.nav.next.title':'Villa Privée',
 
     /* Project card descriptions (projects.html) */
-    'card.villa.desc':'Une villa privée où la végétation indigène constitue le paysage lui-même — non une décoration, mais la continuité de l\'architecture.',
+    'card.villa.desc':'Une villa privée où la végétation indigène constitue le paysage lui-même : non pas un décor ajouté, mais la continuité de l\'architecture.',
     'card.ambassade.desc':'Un jardin de mémoire et de rassemblement pour la résidence de l\'Ambassadeur de France à La Havane.',
     'card.jardin.desc':'Une propriété privée en Auvergne : prairie, lavoir, verger et potager en dialogue avec le paysage naturel du vallon.',
     'card.iberostar.desc':'Un hôtel de luxe à La Havane — patio au sol et jardins suspendus en terrasse, conçus dans un contexte architectural dense.',
     'card.normaliennes.desc':'La requalification d\'un îlot urbain en Auvergne — une allée en pierre de Volvic et deux hectares de jardins traversants.',
     'card.melina.desc':'Six hectares de jardin botanique tropical face à la mer à Varadero — une canopée dense où la piscine se fond dans le paysage.',
-    'card.prado.desc':'Un patio-jardin de 300 m² entre le Paseo del Prado et le Malecón — cœur végétal d\'un hôtel face à la mer de La Havane.',
+    'card.prado.desc':'Un patio-jardin de 300 m² entre le Paseo del Prado et le Malecón — cœur végétal d\'un hôtel face à la mer, à La Havane.',
     'card.cayo.desc':'Quinze hectares sur une île des Caraïbes — un complexe hôtelier conçu pour préserver le paysage naturel et sa flore.',
     'card.corona.desc':'Un patio de 1 000 m² au cœur d\'un bâtiment réhabilité — granit noir, feuillages exotiques et arbres du voyageur.',
     'card.traversee.desc':'Une promenade littorale conçue comme une expérience — entre roches, végétation halophile et flux de marée.',
