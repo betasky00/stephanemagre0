@@ -17,7 +17,7 @@ const T = {
     /* Homepage */
     'home.hero.eyebrow':'Paris · Toute la France',
     'home.hero.name':'Stéphane Magre',
-    'home.hero.role':'Paysagiste concepteur',
+    'home.hero.role':'Paysagiste',
     'home.hero.lines':'Parcs, jardins et paysages<br>Châteaux – domaines historiques – propriétés d\'exception<br>Paris – France – International',
     'home.hero.title':'Des parcs et jardins<br>à la hauteur<br>de votre demeure.',
     'home.hero.sub':'Conception et pilotage de projets de paysage —<br>châteaux, domaines historiques et propriétés d\'exception.',

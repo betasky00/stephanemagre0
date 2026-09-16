@@ -212,6 +212,10 @@ p {
   margin-top: 0.2rem;
 }
 
+.header--home .header__logo {
+  visibility: hidden;
+}
+
 .header.scrolled .header__logo {
   color: var(--text);
 }
