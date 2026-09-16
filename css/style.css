@@ -283,9 +283,10 @@ p {
 }
 
 .header.scrolled .header__burger span {
-  background: var(--deep);
+  background: var(--text);
 }
 
+.header__burger.open span { background: var(--text); }
 .header__burger.open span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
 .header__burger.open span:nth-child(2) { opacity: 0; }
 .header__burger.open span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
@@ -322,6 +323,7 @@ p {
 .mobile-nav a:hover { color: var(--accent); }
 
 .mobile-nav__close {
+  display: none;
   position: absolute;
   top: 2rem;
   right: var(--gutter);
