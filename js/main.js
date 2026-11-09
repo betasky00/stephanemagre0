@@ -84,6 +84,16 @@ if (fadeEls.length && 'IntersectionObserver' in window) {
   lb.querySelector('.lightbox__prev')?.addEventListener('click', () => nav(-1));
   lb.querySelector('.lightbox__next')?.addEventListener('click', () => nav(1));
   lb.addEventListener('click', e => { if (e.target === lb) close(); });
+
+  /* swipe left / right on phones and tablets */
+  let x0 = null;
+  lb.addEventListener('touchstart', e => { x0 = e.touches[0].clientX; }, { passive: true });
+  lb.addEventListener('touchend', e => {
+    if (x0 === null) return;
+    const dx = e.changedTouches[0].clientX - x0;
+    if (Math.abs(dx) > 50) nav(dx < 0 ? 1 : -1);
+    x0 = null;
+  });
   document.addEventListener('keydown', e => {
     if (!lb.classList.contains('open')) return;
     if (e.key === 'Escape') close();
@@ -94,9 +104,10 @@ if (fadeEls.length && 'IntersectionObserver' in window) {
 
 /* ── Active nav link ─────────────────────────────────────── */
 (function () {
-  const page = location.pathname.split('/').pop() || 'index.html';
+  /* the live site serves clean URLs (/projects), local files keep .html */
+  const clean = s => s.replace(/\.html$/, '') || 'index';
+  const page = clean(location.pathname.split('/').pop());
   document.querySelectorAll('.header__nav a, .mobile-nav a').forEach(a => {
-    const href = a.getAttribute('href') || '';
-    a.classList.toggle('active', href === page || (!page && href === 'index.html'));
+    a.classList.toggle('active', clean(a.getAttribute('href') || '') === page);
   });
 })();

@@ -926,7 +926,10 @@ p {
 .project-detail-hero__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(20,19,17,0.8) 0%, transparent 60%);
+  /* top shade keeps the header legible over bright skies; bottom shade carries the title */
+  background:
+    linear-gradient(to bottom, rgba(20,19,17,0.55) 0%, rgba(20,19,17,0) 26%),
+    linear-gradient(to top, rgba(20,19,17,0.8) 0%, transparent 60%);
 }
 
 .project-detail-hero__content {
@@ -966,6 +969,8 @@ p {
   align-items: flex-start;
   flex-wrap: wrap;
 }
+
+.meta-item { max-width: 20rem; }
 
 .meta-item__label {
   font-size: 0.65rem;
@@ -1054,6 +1059,16 @@ p {
 }
 
 .gallery-flow__pair-item:hover img { transform: scale(1.03); }
+
+/* Portrait photographs are shown whole (3:4) instead of being cut to landscape */
+.gallery-flow__pair--portrait .gallery-flow__pair-item img,
+.gallery-flow__pair--trio .gallery-flow__pair-item img { aspect-ratio: 3 / 4; }
+.gallery-flow__pair--trio { grid-template-columns: repeat(3, 1fr); }
+
+/* Drawings and plans are never cropped */
+.gallery-flow__full--natural img { aspect-ratio: auto; height: auto; }
+.gallery-flow__pair-item--drawing { background: #fff; }
+.gallery-flow__pair-item--drawing img { object-fit: contain; }
 
 .gallery-flow__wide {
   overflow: hidden;
@@ -1602,7 +1617,8 @@ p {
   .project-index__item .btn__arrow { display: none; }
   .section-header { flex-direction: column; align-items: flex-start; }
   .projects-list__grid { grid-template-columns: 1fr; }
-  .gallery-flow__pair { grid-template-columns: 1fr; }
+  .gallery-flow__pair,
+  .gallery-flow__pair--trio { grid-template-columns: 1fr; }
   .gallery-flow__wide img { aspect-ratio: 3 / 2; }
   .philosophy-grid { grid-template-columns: 1fr; }
   .footer__inner { flex-direction: column; gap: 2.5rem; }

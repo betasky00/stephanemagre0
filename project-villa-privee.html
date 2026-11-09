@@ -17,9 +17,11 @@
   <meta name="twitter:title" content="Villa Privée — Stéphane Magre" />
   <meta name="twitter:description" content="Villa privée — jardin conçu comme la continuité même du paysage, avec végétation indigène et endémique." />
   <meta name="twitter:image" content="https://stephanemagre.com/images/villa-01.jpg" />
-  <link rel="stylesheet" href="css/style.css?v=20" />
-  <link rel="icon" type="image/svg+xml" href="favicon.svg?v=1" />
-  <script src="js/i18n.js?v=20"></script>
+  <link rel="stylesheet" href="css/style.css?v=21" />
+  <link rel="icon" href="favicon.ico" sizes="32x32" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg?v=2" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <script src="js/i18n.js?v=21"></script>
 </head>
 <body>
   <header class="header" id="header">
@@ -47,7 +49,7 @@
   </nav>
 
   <div class="project-detail-hero">
-    <img src="images/villa-01.jpg"
+    <img src="images/villa-01.jpg" style="object-position: 50% 35%"
          alt="Villa Privée — jardin et architecture contemporaine" fetchpriority="high" />
     <div class="project-detail-hero__overlay"></div>
     <div class="project-detail-hero__content container">
@@ -61,19 +63,19 @@
       <div class="project-meta-bar__inner">
         <div class="meta-item">
           <span class="meta-item__label" data-i18n="project.meta.location">Localisation</span>
-          <span class="meta-item__value" data-i18n="villa.meta.location">France</span>
+          <span class="meta-item__value" data-i18n="villa.meta.location">Bord de mer</span>
+        </div>
+        <div class="meta-item">
+          <span class="meta-item__label" data-i18n="project.meta.programme">Programme</span>
+          <span class="meta-item__value" data-i18n="villa.meta.programme">Aménagement extérieur, jardins, piscine, accès</span>
+        </div>
+        <div class="meta-item">
+          <span class="meta-item__label" data-i18n="project.meta.area">Superficie</span>
+          <span class="meta-item__value" data-i18n="villa.meta.area">8 000 m²</span>
         </div>
         <div class="meta-item">
           <span class="meta-item__label" data-i18n="project.meta.scope">Mission</span>
-          <span class="meta-item__value" data-i18n-html="villa.meta.scope">ESQ, PRO, DCE, EXE</span>
-        </div>
-        <div class="meta-item">
-          <span class="meta-item__label" data-i18n="project.meta.type">Type</span>
-          <span class="meta-item__value" data-i18n="villa.meta.type">Résidence privée, 8 000 m²</span>
-        </div>
-        <div class="meta-item">
-          <span class="meta-item__label" data-i18n="project.meta.status">Statut</span>
-          <span class="meta-item__value" data-i18n="villa.meta.status">Réalisé</span>
+          <span class="meta-item__value" data-i18n="villa.meta.scope">ESQ, PRO, DCE, EXE</span>
         </div>
       </div>
     </div>
@@ -99,25 +101,30 @@
     <div class="container">
       <div class="gallery-flow">
 
-        <div class="gallery-flow__full fade-in"
-             data-lightbox="images/villa-01.jpg"
-             data-alt="Villa Privée — vue d'ensemble">
-          <img src="images/villa-01.jpg"
-               alt="Villa Privée — vue d'ensemble" />
-        </div>
-
-        <div class="gallery-flow__pair fade-in fade-in--delay-1">
+        <div class="gallery-flow__pair gallery-flow__pair--trio fade-in">
+          <div class="gallery-flow__pair-item"
+               data-lightbox="images/villa-01.jpg"
+               data-alt="Villa Privée — vue d'ensemble">
+            <img src="images/villa-01.jpg"
+                 srcset="images/w1600/villa-01.jpg 1600w, images/villa-01.jpg 2400w"
+                 sizes="(max-width: 768px) 100vw, 33vw"
+                 alt="Villa Privée — vue d'ensemble" loading="lazy" decoding="async" />
+          </div>
           <div class="gallery-flow__pair-item"
                data-lightbox="images/villa-02.jpg"
                data-alt="Villa Privée — terrasse et végétation">
             <img src="images/villa-02.jpg"
-                 alt="Villa Privée — terrasse et végétation" />
+                 srcset="images/w1600/villa-02.jpg 1600w, images/villa-02.jpg 2400w"
+                 sizes="(max-width: 768px) 100vw, 33vw"
+                 alt="Villa Privée — terrasse et végétation" loading="lazy" decoding="async" />
           </div>
           <div class="gallery-flow__pair-item"
                data-lightbox="images/villa-03.jpg"
                data-alt="Villa Privée — détail de jardin">
             <img src="images/villa-03.jpg"
-                 alt="Villa Privée — détail de jardin" />
+                 srcset="images/w1600/villa-03.jpg 1600w, images/villa-03.jpg 2400w"
+                 sizes="(max-width: 768px) 100vw, 33vw"
+                 alt="Villa Privée — détail de jardin" loading="lazy" decoding="async" />
           </div>
         </div>
 
@@ -158,6 +165,6 @@
     </nav>
     <div class="footer__copy" data-i18n="footer.copy">© 2026 Stéphane Magre</div>
   </div></div></footer>
-  <script src="js/main.js?v=20"></script>
+  <script src="js/main.js?v=21"></script>
 </body>
 </html>
